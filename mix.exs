@@ -43,7 +43,7 @@ defmodule Ping.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
-      {:inertia_phoenix, "~> 0.1.6"},
+      {:inertia_phoenix, "~> 0.2.0"},
       {:pow, "~> 1.0.18"}
     ]
   end
