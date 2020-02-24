@@ -45,7 +45,7 @@ defmodule Ping.MixProject do
       {:plug_cowboy, "~> 2.0"},
       {:inertia_phoenix, "~> 0.2.5"},
       {:pow, "~> 1.0.18"},
-      {:upload, "~> 0.1.0"},
+      {:upload, "~> 0.2.0"},
       {:scrivener_ecto, "~> 2.0"},
       {:scrivener_list, "~> 2.0"},
       # testing
