@@ -37,7 +37,7 @@
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "react-helmet": "^5.2.1",
-    "react-use": "^13.26.2",
+    "react-use": "^13.26.4",
     "tailwindcss": "^1.2.0",
     "terser-webpack-plugin": "^2.3.2",
     "webpack": "4.41.6",
