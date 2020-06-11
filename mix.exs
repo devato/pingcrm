@@ -49,7 +49,7 @@ defmodule Ping.MixProject do
       {:scrivener_ecto, "~> 2.0"},
       {:scrivener_list, "~> 2.0"},
       # testing
-      {:wallaby, "~> 0.23.0", runtime: false, only: :test},
+      {:wallaby, "~> 0.25.1", runtime: false, only: :test},
       {:faker, "~> 0.13", only: :test},
       # mix check
       {:ex_check, ">= 0.0.0", only: [:dev, :test], runtime: false},
