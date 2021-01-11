@@ -40,7 +40,7 @@
     "react-use": "^13.26.4",
     "tailwindcss": "^1.2.0",
     "terser-webpack-plugin": "^2.3.2",
-    "webpack": "4.41.6",
+    "webpack": "4.46.0",
     "webpack-cli": "^3.3.2"
   }
 }
